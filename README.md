@@ -6,13 +6,13 @@ This is theself-stude project tutorial for project needed for graduation as Full
 
 Includes:
 
-- REST API to apply basic functionality for managing user accounts
+- Django REST API to apply basic functionality for managing user accounts
 - Django Framework fundamentals 
-- forked from https://github.com/LondonAppDev/profiles-rest-api
+- forked from video tuturial available [here](https://www.youtube.com/watch?v=mNwAyMmGKoI&list=PL8GFhcuc_fW4cxdkRtWIlln1DQ3CZwQen)
 
 Key Takeaways:
 
-- Creating a working API
+- Build a Backend working API
 
 - Create, update, delete and manage user profiles
 
@@ -37,9 +37,9 @@ Key Takeaways:
 
 Future implements:
 
-- Front end styled page to render real UI 
+- Frontend styled page to render real UI 
 
-- Deploying the API for Heroku and then to AWS or similar
+- Deploying the app to Heroku and then to AWS or similar
 
 ## Gitpod Reminders
 
