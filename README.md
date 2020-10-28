@@ -1,8 +1,8 @@
 
 
-Welcome,
+Hello,
 
-This is the project tutorial for project needed for graduation as Full Stack Develepor.
+This is theself-stude project tutorial for project needed for graduation as Full Stack Develepor.
 
 Includes:
 
@@ -10,10 +10,40 @@ Includes:
 - Django Framework fundamentals 
 - forked from https://github.com/LondonAppDev/profiles-rest-api
 
+Key Takeaways:
+
+- Creating a working API
+
+- Create, update, delete and manage user profiles
+
+- Authenticate with username & password
+
+- Manage user profile feed items
+
+- Posting status updates
+
+- Viewing status update feeds
+
+- Create a working development server
+
+- User Django models to create database
+
+- Enable and use Django Admin
+
+- Use Django dev server to run & test code
+
+- all the above provide are limited to the basics without frontend styling
+
+
+Future implements:
+
+- Front end styled page to render real UI 
+
+- Deploying the API for Heroku and then to AWS or similar
+
 ## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-https://github.com/LondonAppDev/profiles-rest-api
+To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type
 
 `python3 -m http.server`
 
