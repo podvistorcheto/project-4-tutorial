@@ -8,10 +8,12 @@ Includes:
 
 - REST API to apply basic functionality for managing user accounts
 - Django Framework fundamentals 
+- forked from https://github.com/LondonAppDev/profiles-rest-api
 
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+https://github.com/LondonAppDev/profiles-rest-api
 
 `python3 -m http.server`
 
